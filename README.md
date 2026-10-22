@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sheelash Singh Bhadoriya 👋
 
-<!--
-**shailgd34/shailgd34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product Designer | UI/UX Designer | Frontend Developer
 
-Here are some ideas to get you started:
+I design user-centered digital experiences and build responsive web applications. With 5+ years of experience, I work across product design, SaaS platforms, design systems, and frontend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 Product Design, UX Research & UI Design
+- 🧩 Wireframing, Prototyping & Design Systems
+- ⚛️ React, Next.js & TypeScript
+- 🔌 REST API Integration, Redux Toolkit & React Query
+- 🌐 WordPress, Elementor & Multilingual Websites
+
+### 🛠️ Tools & Technologies
+
+Figma · React · Next.js · TypeScript · Redux Toolkit · React Query · WordPress · Framer
+
+### 🚀 Portfolio
+
+Explore my selected projects and case studies:
+https://portfolio-s-gilt.vercel.app/
+
+### 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/shailash-singh-bhadoriya-5a941818b/
+- Email: shailashs79@gmail.com
+
+---
+
+*Designing meaningful experiences. Building products that work.*
